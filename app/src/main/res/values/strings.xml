@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">战疫筹</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">春来疫走</string>
+    <string name="nav_header_subtitle">春暖花开</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="action_mine_login">登录</string>
+    <string name="action_contribution">捐款</string>
+    <string name="action_fundraising">筹款</string>
+    <string name="action_set">设置</string>
+
+    <string name="action_about">关于</string>
+
+    <string name="action_news">时事新闻</string>
+    <string name="action_telephone">爱心热线</string>
+
+    <string name="action_message">消息</string>
+    <string name="action_friends">好友</string>
+    <string name="action_dynamic">动态</string>
+    <string name="action_collection">收藏</string>
+
+    <string name="action_login">登录</string>
+    <string name="action_main">主页</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">账号(邮箱)</string>
+    <string name="prompt_password">密码</string>
+    <string name="action_sign_in">登录或注册</string>
+    <string name="action_sign_in_short">登录</string>
+    <string name="error_invalid_email">此邮箱地址不存在</string>
+    <string name="error_invalid_password">密码太长</string>
+    <string name="error_incorrect_password">密码错误</string>
+    <string name="error_field_required">您没有输入任何内容</string>
+    <string name="permission_rationale">"提供电子邮件完成需要联系人权限."</string>
+
+    <string name="m1">需要筹多少钱</string>
+    <string name="m2">指患者家庭可以承担的医疗费用之外还需多少看病钱，应参照医院给出的建议医疗费用填写</string>
+    <string name="m3">还缺多少钱给患者治病</string>
+    <string name="m4">填写筹款标题</string>
+    <string name="m5">怎么写标题？</string>
+    <string name="m6">一句话简单描述你的情况(25字以内)</string>
+    <string name="m7">填写求助说明</string>
+    <string name="m8">怎么写求助说明？</string>
+    <string name="m9">我叫xx，今年X岁，xx省xx市人。职业是X。</string>
+    <string name="m10">x年x月x日，在x医院，被确诊为X疾病。</string>
+    <string name="m11">从确诊到现在已经花费了X元，后续治疗还需要X元。</string>
+    <string name="m12">家庭情况描述，家庭成员父母、丈夫、妻子、儿女等</string>
+    <string name="m13">家庭经济情况描述，如房产、车产、工资收入等</string>
+
+    <string name="action_submit">提交</string>
+    <string name="title_activity_tabs">TabsActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+
+</resources>
